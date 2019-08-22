@@ -1,3 +1,3 @@
 # Algorithms
  
-Here I'm solving different algorithms from HackerRank portal and other resources.
+Here I solve different algorithms from HackerRank portal and other resources.
